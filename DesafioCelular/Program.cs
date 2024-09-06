@@ -7,7 +7,7 @@ class Program
     {
 
         Smartphone nokia = new Nokia("123456789", "Nokia 1100", "Symbian");
-        Smartphone iphone = new Iphone("987654321", "iPhone 13", "iOS");
+        Smartphone iphone = new Iphone("987654321", "iiPhone 13", "iOS");
 
 
         nokia.Ligar();
